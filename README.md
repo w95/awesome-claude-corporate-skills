@@ -93,6 +93,7 @@ Open any `SKILL.md` and use the instructions directly as a system prompt or refe
 | Skill | Description |
 |-------|-------------|
 | [skill-creator](00-meta/skill-creator/) | Guidance for creating effective Claude Skills with specialized knowledge, workflows, and tool integrations |
+| [CrakSEO/skills](https://github.com/CrakSEO/skills) | Connect Claude/Cursor/Codex to CrakSEO remote MCP servers for keyword research, SERP, backlinks, rank tracking, site audit, local SEO, AI visibility, Search Console and URL indexing | Claude Code, Cursor, Codex | MIT |
 
 ### 01 — Executive Leadership
 
