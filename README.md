@@ -456,6 +456,7 @@ Domain-specific guidance and edge cases.
 - [Creating Custom Skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) — Skill development guide
 - [Claude Code Docs](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) — CLI reference
 - [Anthropic Skills Repo](https://github.com/anthropics/skills) — Official example skills
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Hosted MCP server for live-music venue discovery and tour routing
 
 ## License
 
